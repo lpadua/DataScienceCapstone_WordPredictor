@@ -1,0 +1,13 @@
+name: WordPredictor
+title: WordPredictor
+username:
+account: luispadua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 269890
+bundleId: 1203804
+url: https://luispadua.shinyapps.io/WordPredictor/
+when: 1517532707.6659
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: smallCorpus.zip
